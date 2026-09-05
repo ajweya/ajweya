@@ -209,9 +209,7 @@ AI tools, new technologies, and experimental applications.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajweya&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajweya&layout=compact&hide_border=true" alt="Top Languages" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ajweya&custom_title=AJWEYA&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ajweya&custom_title=AJWEYA&include_all_commits=true&theme=dark)
 
 </div>
 
