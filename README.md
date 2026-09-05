@@ -1,139 +1,201 @@
-# hey, i'm aj 👋
+<div align="center">
 
-i'm a student from Kerala, India.
+# AJ
 
-i like making projects and figuring things out by actually building them.
+### Student · Project Builder · Developer
 
-most of what i know comes from having an idea, opening VS Code, writing a lot of questionable code, getting errors, searching for solutions, breaking everything, and eventually getting something to work.
+Based in Kerala, India
 
----
+<br>
 
-## about me
+<a href="https://github.com/ajweya">
+  <img src="https://img.shields.io/badge/GitHub-ajweya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-* 🇮🇳 from Kerala, India
-* 🎓 currently in 12th grade
-* 💻 i mostly learn by making projects
-* 🌐 interested in web development
-* 🎮 experimenting with game development
-* 🎨 messing around with 3D and Blender
-* 🤖 interested in AI and creative technology
-* 💡 constantly getting new project ideas
-
-i don't really like just reading about something for hours.
-
-if i want to learn something, i'll usually try to make something with it.
+</div>
 
 ---
 
-## things i've been messing with
+## About Me
 
-### web
+I am a 12th-grade student from Kasaragod, Kerala.
 
-`HTML` · `CSS` · `JavaScript`
+I spend most of my time building projects and experimenting with technology. I prefer learning by creating things rather than only following tutorials.
 
-making websites, web apps, and random browser experiments.
+My main interests are web development, game development, 3D design, and artificial intelligence.
 
-### games
+I enjoy taking an idea and turning it into something functional, even if the first version does not work as expected.
 
-`Phaser`
+---
 
-mostly experimenting with 2D games, levels, physics, mechanics, and trying to make things feel less broken.
+## Areas I Explore
+
+<table>
+<tr>
+<td width="50%">
+
+### Web Development
+
+Building websites, interfaces, and browser-based applications.
+
+</td>
+
+<td width="50%">
+
+### Game Development
+
+Experimenting with game mechanics, levels, physics, and interactive experiences.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 3D
 
-`Blender`
+Creating and experimenting with models, environments, and scenes using Blender.
 
-learning how to create and work with 3D models, scenes, and environments.
+</td>
 
-### other stuff
+<td width="50%">
 
-`Python` · `Git` · `GitHub`
+### Artificial Intelligence
+
+Exploring AI tools and experimenting with new technologies.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## currently
+## Technologies
 
-```text
-thinking of a project
-        ↓
-starting the project
-        ↓
-making good progress
-        ↓
-finding a weird bug
-        ↓
-trying to fix it for 3 hours
-        ↓
-getting another project idea
-        ↓
-starting that instead
+<div align="center">
+
+### Languages & Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python&perline=8" />
+
+<br><br>
+
+### Tools & Software
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,blender&perline=8" />
+
+</div>
+
+---
+
+## What I Work On
+
+I mainly build personal and experimental projects.
+
+My work often involves:
+
+* Websites and web applications
+* Interactive browser experiences
+* 2D games
+* Game mechanics and level systems
+* 3D environments
+* Experimental AI projects
+* Creative technology
+
+---
+
+## My Approach
+
+```text id="2kmd9r"
+Have an idea
+     │
+     ▼
+Start building
+     │
+     ▼
+Research what I don't know
+     │
+     ▼
+Experiment
+     │
+     ▼
+Debug
+     │
+     ▼
+Improve
+     │
+     ▼
+Build the next version
 ```
 
----
-
-## projects
-
-i like building projects that let me experiment with different things.
-
-some of them are serious.
-
-some of them started because i thought:
-
-> "this would be cool."
-
-that's usually enough of a reason.
+I learn most effectively when I have a project to work on.
 
 ---
 
-## how i usually learn
+## Current Interests
 
-```text
-i want to make something
-        ↓
-i don't know how
-        ↓
-search documentation
-        ↓
-try something
-        ↓
-error
-        ↓
-try something else
-        ↓
-it works somehow
-        ↓
-learn something new
-```
+<table>
+<tr>
+<td>
 
----
+Web Development
 
-## things i'm interested in
+HTML, CSS, JavaScript, interfaces, and browser applications.
 
-* 🌐 web development
-* 🎮 game development
-* 🕹️ game design
-* 🎨 3D design
-* 🧊 Blender
-* 🤖 AI
-* 💻 creative coding
-* 🧪 experimenting with technology
+</td>
 
----
+<td>
 
-## my setup
+Game Development
 
-```text
-OS        → Windows
-Editor    → VS Code
-3D        → Blender
-Browser   → Chrome
-Version   → Git + GitHub
-Music     → Spotify
-```
+Phaser, game mechanics, level design, and interactive systems.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+3D Design
+
+Blender, models, environments, and 3D experiments.
+
+</td>
+
+<td>
+
+AI & Technology
+
+AI tools, new technologies, and experimental applications.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎧 currently listening to
+## Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,vscode,git,github,blender,chrome&perline=6" />
+
+</div>
+
+<br>
+
+|                  |                    |
+| ---------------- | ------------------ |
+| Operating System | Windows            |
+| Code Editor      | Visual Studio Code |
+| Version Control  | Git & GitHub       |
+| 3D Software      | Blender            |
+| Game Development | Phaser             |
+| Browser          | Chrome             |
+
+---
+
+## Currently Listening To
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316ex4ezxxey2jfsqlnwhlawgply&redirect=true">
@@ -143,57 +205,36 @@ Music     → Spotify
 
 ---
 
-## github stuff
+## GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajweya&show_icons=true&hide_title=true&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajweya&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
 
-## random facts
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajweya&layout=compact&hide_border=true" alt="Top Languages" />
 
-* i learn better by building things.
-* project ideas usually appear when i'm supposed to be doing something else.
-* sometimes fixing one bug creates three new ones.
-* `console.log()` is still useful.
-* the first version of something is rarely the final version.
-* sometimes i spend more time fixing things than actually making them.
-* unfinished projects still taught me something.
+</div>
 
 ---
 
-## project status
+## Current Status
 
-```text
-ideas                ████████████████████
-projects started     ████████████████████
-projects finished    ████████░░░░░░░░░░░░
-new ideas            ████████████████████████████████
+```text id="r8w2lp"
+Learning by building projects.
+
+Exploring web development, games, 3D, and AI.
+
+Always experimenting with new ideas.
 ```
 
 ---
 
-## if you're here
+<div align="center">
 
-feel free to look around.
+<sub>Building projects and learning through experience.</sub>
 
-some repositories might be experiments.
+<br><br>
 
-some might be unfinished.
+<img src="https://komarev.com/ghpvc/?username=ajweya&label=Profile%20Views&color=006eff&style=flat" alt="Profile Views">
 
-some might randomly disappear because i decided to rebuild everything from scratch.
-
-that's just part of making things.
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ajweya&label=people%20who%20ended%20up%20here&color=006eff&style=flat" />
-
-</p>
-
----
-
-<sub>just making stuff because why not.</sub>
+</div>
